@@ -30,6 +30,11 @@ In their most recent study, 249 mice identified with SCC tumor growth were treat
 
 * Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
 
+## Final Observations
+
+* The study done between Ramicane and Capomulin used similar amounts of mice. They returned similar results.
+* There is a strong positive correlation between tumor volume and weight of the mice.
+* Ramicane and Infubinal have a symetric distribution while Capomulin and Ceftimin have more of a negative skew.
 
 ### Copyright
 
